@@ -1,10 +1,18 @@
 # 🍃 Leaf Chat 🍃
+<img src="https://img.shields.io/github/stars/minhle28/Leaf_Chat_App"/> <img src="https://img.shields.io/github/issues/minhle28/Leaf_Chat_App"/> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/minhle28/Leaf_Chat_App)
 
 ## 🌿 About 
-* A chat app that you can chat to any user, and global chat. 
+* A chat app that you can chat to any user, and chat to global. 
 
-## ⭐ Note:
-* Only available on Mobile Display
+## ⭐ Note
+* Only available on Mobile Display.
+
+## 📱 Demo App
+* By following the step below you can run the app:
+  * Download Expo app on mobile device.
+  * Open this link: https://expo.dev/@leminh2001/LeafChat
+  * Scan QR code.
+  * Done! Enjoy testing the app.
 
 
 ## 🌿 App Screenshots
@@ -22,7 +30,7 @@
 * Login/SignUp Authentication
 * Reset password
 * Logout
-* Display all user registerd
+* Display all user registered
 * User/Global chat rooms
 * Upload avatar
 
