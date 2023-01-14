@@ -42,7 +42,4 @@
 Firebase
 
 
-* <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> Node.js
-
-
 * <a><img src="https://www.svgrepo.com/show/353723/expo-icon.svg" alt="Expo" width="21px" height="21px"></a> Expo
